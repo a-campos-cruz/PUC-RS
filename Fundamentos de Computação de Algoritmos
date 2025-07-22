@@ -1,2 +1,4 @@
 Servidor em nuvem: É um grupo de máquinas físicas trabalhando juntas, como uma só, onde caso ocorra algum problema com uma delas, outra máquina assumirá a carga, impedindo que um sistema ou site fique fora do ar.
 Trade-off: Define uma situação em que há conflito de escolha, se caracteriza em uma ação econômica que visa a resolução de problema, mas acarreta outro, obrigando uma escolha.
+Server side rendered: É uma técnica usada no desenvolvimento Web que produz uma resposta personalizada para a solicitação de cada usuário (cliente) ao site. A alternativa é o próprio servidor web entregar uma página web estática.
+Debug: Igual a depuração em português, é o processo de encontrar e reduzir defeitos num aplicativo de softaware ou mesmo em um hardware.
