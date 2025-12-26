@@ -1,6 +1,6 @@
-= input("Hello! What is your name?")
+name = input("Hello! What is your name?")
 print(f"Nice tô meet you,{name}!")
-age_input = input ("How old are you?")name
+age_input = input ("How old are you?")
 age = int(age_input)
 
 bot_age = 3
